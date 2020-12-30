@@ -1,4 +1,4 @@
-[![dependencies Status](https://david-dm.org/bootstrapworld/asciidoc2googleslides/status.svg)](https://david-dm.org/bootstrapworld/casciidoc2googleslides)
+[![dependencies Status](https://david-dm.org/bootstrapworld/asciidoc2googleslides/status.svg)](https://david-dm.org/bootstrapworld/asciidoc2googleslides)
 [![devDependencies Status](https://david-dm.org/bootstrapworld/asciidoc2googleslides/dev-status.svg)](https://david-dm.org/bootstrapworld/asciidoc2googleslides?type=dev)
 
 
